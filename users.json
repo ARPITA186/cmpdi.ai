@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "password": "password123",
+        "name": "Admin User"
+    },
+    "Arpita": {
+        "password": "Arpita",
+        "name": "Arpita"
+    },
+    "jasuu": {
+        "password": "jasuu",
+        "name": "jasuu"
+    }
+}
